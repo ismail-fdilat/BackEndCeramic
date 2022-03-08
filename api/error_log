@@ -1,0 +1,1163 @@
+[13-Mar-2020 14:03:02 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:03:02 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:04:47 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:07:40 Asia/Calcutta] PHP Notice:  Undefined index: first_name in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1357
+[13-Mar-2020 14:07:40 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$totalprice in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1366
+[13-Mar-2020 14:07:40 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$size_id in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1370
+[13-Mar-2020 14:18:19 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:18:20 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:19:50 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:19:50 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:20:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:20:18 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:20:20 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:20:42 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:21:58 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$totalprice in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1366
+[13-Mar-2020 14:21:58 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$size_id in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1370
+[13-Mar-2020 14:22:17 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:22:17 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:22:21 Asia/Calcutta] PHP Warning:  Attempt to assign property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1447
+[13-Mar-2020 14:22:21 Asia/Calcutta] PHP Warning:  Attempt to assign property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1447
+[13-Mar-2020 14:22:52 Asia/Calcutta] PHP Warning:  Attempt to assign property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1447
+[13-Mar-2020 14:22:52 Asia/Calcutta] PHP Warning:  Attempt to assign property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1447
+[13-Mar-2020 14:23:00 Asia/Calcutta] PHP Warning:  Attempt to assign property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1447
+[13-Mar-2020 14:23:00 Asia/Calcutta] PHP Warning:  Attempt to assign property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1447
+[13-Mar-2020 14:23:37 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:24:23 Asia/Calcutta] PHP Warning:  Attempt to assign property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1447
+[13-Mar-2020 14:24:23 Asia/Calcutta] PHP Warning:  Attempt to assign property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1447
+[13-Mar-2020 14:25:52 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:26:16 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 5
+[13-Mar-2020 14:29:07 Asia/Calcutta] PHP Notice:  Undefined index: category_id in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 771
+[13-Mar-2020 14:29:07 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 775
+[13-Mar-2020 14:32:46 Asia/Calcutta] PHP Notice:  Undefined index: category_id in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 771
+[13-Mar-2020 14:32:46 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 775
+[13-Mar-2020 14:34:25 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:34:25 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:42:44 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:43:40 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:44:38 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:44:39 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:45:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:45:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:49:01 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:49:02 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:50:33 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:50:33 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:52:37 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:52:37 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:57:56 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 14:57:56 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:00:39 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:00:49 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:01:12 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:01:12 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:02:04 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:02:16 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:02:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:07:56 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:07:57 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:09:10 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:09:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:12:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 15:12:53 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:12:53 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:18:57 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:18:58 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:21:14 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:21:14 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:24:58 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:24:59 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:25:06 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:25:17 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:25:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:25:27 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:28:54 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:28:54 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:29:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 15:29:27 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:30:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 15:30:56 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:31:02 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:31:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:31:29 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:32:04 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:34:38 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:34:39 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1552
+[13-Mar-2020 15:36:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1715
+[13-Mar-2020 15:36:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1715
+[13-Mar-2020 15:36:39 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1715
+[13-Mar-2020 15:36:53 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 15:36:53 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 15:36:53 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1202
+[13-Mar-2020 15:37:12 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1715
+[13-Mar-2020 15:37:30 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 15:37:30 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 15:37:30 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1202
+[13-Mar-2020 15:38:18 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1715
+[13-Mar-2020 15:38:36 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1715
+[13-Mar-2020 15:38:36 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1715
+[13-Mar-2020 10:09:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 454
+[13-Mar-2020 15:39:19 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1712
+[13-Mar-2020 15:39:23 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 15:39:23 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 15:39:23 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1202
+[13-Mar-2020 15:39:23 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1360
+[13-Mar-2020 15:42:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1712
+[13-Mar-2020 15:42:49 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1712
+[13-Mar-2020 15:42:49 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1712
+[13-Mar-2020 15:43:03 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:43:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:43:07 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 15:43:07 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 15:43:07 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:43:18 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:43:22 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:43:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:43:33 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:43:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 15:43:45 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:43:53 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:43:54 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:44:00 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:48:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1713
+[13-Mar-2020 15:52:47 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1714
+[13-Mar-2020 15:53:10 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1714
+[13-Mar-2020 15:53:10 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1714
+[13-Mar-2020 15:54:06 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1714
+[13-Mar-2020 15:54:11 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 15:54:11 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 15:54:11 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1243
+[13-Mar-2020 15:54:14 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 15:54:14 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 15:54:14 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1243
+[13-Mar-2020 15:56:12 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1714
+[13-Mar-2020 15:56:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1714
+[13-Mar-2020 15:56:21 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1714
+[13-Mar-2020 15:56:51 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 15:56:51 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 15:56:51 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1246
+[13-Mar-2020 15:57:43 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1717
+[13-Mar-2020 15:57:44 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1717
+[13-Mar-2020 15:57:58 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1717
+[13-Mar-2020 15:59:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1717
+[13-Mar-2020 15:59:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1717
+[13-Mar-2020 15:59:30 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1717
+[13-Mar-2020 15:59:50 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 15:59:50 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 15:59:50 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1246
+[13-Mar-2020 15:59:50 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1365
+[13-Mar-2020 16:00:04 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:00:04 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:00:04 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1203
+[13-Mar-2020 16:00:04 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1203
+[13-Mar-2020 16:01:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:01:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:01:35 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:02:18 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:02:18 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:02:25 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:06:09 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:06:35 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:07:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:07:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:07:40 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:07:47 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:07:47 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:07:47 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 16:07:47 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1366
+[13-Mar-2020 16:08:34 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:08:34 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:08:34 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 16:08:38 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:08:38 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:08:38 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 16:08:38 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1366
+[13-Mar-2020 16:11:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:11:13 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:11:13 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:11:13 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 16:11:13 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1366
+[13-Mar-2020 16:11:50 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:11:50 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:11:56 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:11:56 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:13:08 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:13:08 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:13:15 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:13:15 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:13:15 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 16:14:30 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:14:30 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:14:30 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 16:14:39 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:14:39 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:14:39 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 16:14:42 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:14:42 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:14:42 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1203
+[13-Mar-2020 16:14:42 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1203
+[13-Mar-2020 16:16:18 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:16:19 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:17:57 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 5
+[13-Mar-2020 16:18:31 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:18:31 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:18:59 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:19:00 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:19:27 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:19:42 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:19:42 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:19:42 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 16:19:45 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 16:19:45 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 16:19:45 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1203
+[13-Mar-2020 16:19:45 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1203
+[13-Mar-2020 16:20:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:20:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 16:20:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 16:20:29 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:21:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:22:46 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:24:15 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:24:16 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:24:36 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:25:56 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:25:57 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:27:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 16:27:16 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:28:45 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:30:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 16:30:02 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:30:37 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:30:38 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:40:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:40:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:46:40 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:46:41 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:47:31 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:47:31 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:51:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:51:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:55:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 16:55:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:05:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:05:29 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:05:52 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:05:53 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:06:26 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:06:27 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:07:37 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:07:37 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:07:37 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:07:37 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:07:37 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:07:39 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:07:39 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:07:39 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:07:39 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1153
+[13-Mar-2020 17:07:39 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1153
+[13-Mar-2020 17:07:39 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:07:54 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:07:54 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:07:54 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:09:20 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:09:20 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:09:20 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:09:20 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1153
+[13-Mar-2020 17:09:20 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1153
+[13-Mar-2020 17:09:20 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:09:25 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:09:25 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:09:25 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:09:30 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:11:46 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:11:46 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:11:46 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:11:46 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1153
+[13-Mar-2020 17:11:46 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1153
+[13-Mar-2020 17:11:47 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:11:50 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:11:50 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:11:50 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:11:54 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:12:12 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 17:12:12 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 17:17:59 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:17:59 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:17:59 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:17:59 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1153
+[13-Mar-2020 17:17:59 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1153
+[13-Mar-2020 17:17:59 Asia/Calcutta] PHP Notice:  Undefined variable: condition in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:18:03 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1079
+[13-Mar-2020 17:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1247
+[13-Mar-2020 17:18:05 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:20:36 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:20:37 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1316
+[13-Mar-2020 17:20:42 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1047
+[13-Mar-2020 17:24:15 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:24:16 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:27:15 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:27:15 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:27:25 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:27:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:27:35 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:27:48 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:27:54 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:27:58 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:29:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:29:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:29:34 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:29:42 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:30:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:30:51 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:33:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 17:33:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 17:34:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 17:34:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 17:35:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 17:35:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 17:36:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:38:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 17:38:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function productsOnoffer() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 159
+[13-Mar-2020 17:41:57 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:41:57 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:42:19 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:42:39 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:42:40 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:42:41 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1718
+[13-Mar-2020 17:43:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:43:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:44:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:44:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:44:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:44:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:44:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:46:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:47:07 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 5
+[13-Mar-2020 17:47:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:48:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:48:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:48:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:48:44 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 17:48:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:49:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:52:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:56:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 17:57:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on integer in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php:569
+Stack trace:
+#0 /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php(57): home(Object(mysqli))
+#1 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 569
+[13-Mar-2020 12:28:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function home() in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 57
+[13-Mar-2020 18:06:38 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:07:09 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:07:18 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:20:50 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:20:50 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:33:54 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:33:54 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:34:15 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:36:00 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:36:00 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:36:49 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:38:43 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:38:44 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:41:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:41:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:42:36 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:42:36 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:43:41 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:43:50 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:45:10 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:45:10 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:46:43 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:46:43 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:48:11 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:48:11 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:50:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:50:25 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:55:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:55:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:55:31 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:57:35 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:57:35 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:57:47 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:57:51 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:57:55 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:03 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:09 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:12 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:29 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:31 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:35 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:38 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:44 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:47 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:58:55 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 18:59:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:00:31 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:00:34 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:00:37 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:01:36 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:01:36 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:03:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:03:24 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:03:29 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:03:30 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:03:32 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:05:15 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:05:16 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:06:07 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:07:01 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:07:02 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:07:40 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:22:08 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:22:08 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:26:06 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:26:06 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:29:15 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:29:15 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:29:38 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:29:38 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:31:44 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1765
+[13-Mar-2020 19:31:44 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 19:41:53 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 5
+[13-Mar-2020 19:43:05 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1099
+[13-Mar-2020 19:43:05 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1131
+[13-Mar-2020 19:43:05 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1255
+[13-Mar-2020 19:43:05 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1255
+[13-Mar-2020 19:43:08 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1099
+[13-Mar-2020 19:43:08 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1131
+[13-Mar-2020 19:43:08 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1205
+[13-Mar-2020 19:43:08 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1205
+[13-Mar-2020 19:43:10 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1099
+[13-Mar-2020 19:43:10 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1131
+[13-Mar-2020 19:43:10 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1299
+[13-Mar-2020 20:06:48 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:06:48 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:07:11 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:07:44 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:09:04 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:09:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:11:07 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:11:07 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:15:04 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:15:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:19:49 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:19:49 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:20:04 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:20:12 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:20:14 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:21:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:21:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:22:17 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:22:17 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:22:18 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:24:56 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:24:58 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:25:26 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1770
+[13-Mar-2020 20:26:29 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 20:26:29 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 20:26:44 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 20:26:44 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 20:29:10 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 20:29:10 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 20:29:31 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1099
+[13-Mar-2020 20:29:31 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1131
+[13-Mar-2020 20:29:31 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1299
+[13-Mar-2020 20:29:34 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1099
+[13-Mar-2020 20:29:34 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1131
+[13-Mar-2020 20:29:34 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1299
+[13-Mar-2020 20:29:34 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1418
+[13-Mar-2020 20:30:09 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[13-Mar-2020 20:30:09 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[13-Mar-2020 20:30:09 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1302
+[13-Mar-2020 20:30:09 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1421
+[13-Mar-2020 20:30:10 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[13-Mar-2020 20:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[13-Mar-2020 20:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1302
+[13-Mar-2020 20:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1421
+[13-Mar-2020 20:30:21 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[13-Mar-2020 20:30:21 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[13-Mar-2020 20:30:21 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1302
+[13-Mar-2020 20:30:21 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1421
+[13-Mar-2020 20:30:21 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[13-Mar-2020 20:30:21 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[13-Mar-2020 20:30:21 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1302
+[13-Mar-2020 20:30:21 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1421
+[13-Mar-2020 20:30:28 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[13-Mar-2020 20:31:59 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[13-Mar-2020 20:46:58 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 20:46:58 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 20:47:16 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[13-Mar-2020 20:47:16 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[13-Mar-2020 20:47:23 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[13-Mar-2020 20:47:26 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[13-Mar-2020 20:47:30 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[13-Mar-2020 20:47:33 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[13-Mar-2020 20:48:20 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[13-Mar-2020 20:48:20 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:09:51 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[14-Mar-2020 01:09:51 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[14-Mar-2020 01:10:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[14-Mar-2020 01:10:46 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[14-Mar-2020 01:11:10 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[14-Mar-2020 01:11:14 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[14-Mar-2020 01:11:14 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[14-Mar-2020 01:11:14 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1302
+[14-Mar-2020 01:11:19 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[14-Mar-2020 01:11:19 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[14-Mar-2020 01:11:19 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1258
+[14-Mar-2020 01:11:19 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1258
+[14-Mar-2020 01:11:19 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1258
+[14-Mar-2020 01:11:24 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[14-Mar-2020 01:11:24 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[14-Mar-2020 01:11:24 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1302
+[14-Mar-2020 01:11:24 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1421
+[14-Mar-2020 01:11:30 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[14-Mar-2020 01:11:30 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[14-Mar-2020 01:11:30 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1258
+[14-Mar-2020 01:11:30 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1258
+[14-Mar-2020 01:11:30 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1258
+[14-Mar-2020 01:12:37 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[14-Mar-2020 01:14:12 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[14-Mar-2020 01:14:34 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[14-Mar-2020 01:17:46 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:17:46 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:28:41 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:28:41 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:32:24 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:32:24 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:32:34 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:32:34 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:33:01 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:33:01 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:33:04 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:33:04 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:33:09 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:33:09 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:33:25 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[14-Mar-2020 01:33:25 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 427
+[15-Mar-2020 12:36:55 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[15-Mar-2020 12:36:55 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[15-Mar-2020 14:11:22 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 5
+[16-Mar-2020 10:50:08 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 10:50:08 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 11:09:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 11:09:08 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 11:13:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 11:13:17 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 11:13:45 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 11:36:33 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user.php on line 5
+[16-Mar-2020 12:31:33 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 12:31:33 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 12:31:48 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 12:31:51 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 13:02:38 Asia/Calcutta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 13:02:39 Asia/Calcutta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 13:50:45 Asia/Calcutta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 13:50:45 Asia/Calcutta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 14:30:10 Asia/Calcutta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 14:30:10 Asia/Calcutta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 14:30:24 Asia/Calcutta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1773
+[16-Mar-2020 14:33:08 Asia/Calcutta] PHP Notice:  Undefined index: userid in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 2257
+[16-Mar-2020 14:33:30 Asia/Calcutta] PHP Notice:  Undefined index: userid in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 2257
+[16-Mar-2020 14:33:58 Asia/Calcutta] PHP Notice:  Undefined index: userid in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 2257
+[16-Mar-2020 14:35:36 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[16-Mar-2020 14:35:36 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[16-Mar-2020 14:35:36 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1258
+[16-Mar-2020 14:35:36 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1258
+[16-Mar-2020 14:35:36 Asia/Calcutta] PHP Notice:  Undefined variable: base_url in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1258
+[16-Mar-2020 14:35:45 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[16-Mar-2020 14:35:45 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[16-Mar-2020 14:35:45 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1302
+[16-Mar-2020 14:36:00 Asia/Calcutta] PHP Notice:  Undefined index: userid in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 2257
+[16-Mar-2020 14:36:08 Asia/Calcutta] PHP Notice:  Undefined index: userid in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 2257
+[16-Mar-2020 14:36:19 Asia/Calcutta] PHP Notice:  Undefined index: userid in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 2257
+[16-Mar-2020 14:36:59 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[16-Mar-2020 14:36:59 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[16-Mar-2020 14:36:59 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1302
+[16-Mar-2020 14:40:10 Asia/Calcutta] PHP Notice:  Undefined index: category_id in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1094
+[16-Mar-2020 14:40:10 Asia/Calcutta] PHP Notice:  Undefined index: subcategory_id in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1095
+[16-Mar-2020 14:40:10 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[16-Mar-2020 14:40:10 Asia/Calcutta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1145
+[16-Mar-2020 14:40:10 Asia/Calcutta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1313
+[16-Mar-2020 14:41:33 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[16-Mar-2020 14:42:16 Asia/Calcutta] PHP Notice:  Undefined index: type in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1102
+[16-Mar-2020 14:42:16 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1134
+[16-Mar-2020 14:42:16 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1302
+[16-Mar-2020 14:43:14 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1128
+[16-Mar-2020 14:43:14 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1296
+[16-Mar-2020 14:45:03 Asia/Calcutta] PHP Warning:  Attempt to assign property 'base_url' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1668
+[16-Mar-2020 14:45:03 Asia/Calcutta] PHP Warning:  Attempt to assign property 'base_url' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1668
+[16-Mar-2020 14:45:03 Asia/Calcutta] PHP Warning:  Attempt to assign property 'base_url' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1668
+[16-Mar-2020 14:48:05 Asia/Calcutta] PHP Warning:  Attempt to assign property 'base_url' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1668
+[16-Mar-2020 14:48:05 Asia/Calcutta] PHP Warning:  Attempt to assign property 'base_url' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1668
+[16-Mar-2020 14:48:05 Asia/Calcutta] PHP Warning:  Attempt to assign property 'base_url' of non-object in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1668
+[16-Mar-2020 14:48:42 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1128
+[16-Mar-2020 14:48:42 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1296
+[16-Mar-2020 14:48:54 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1128
+[16-Mar-2020 14:48:54 Asia/Calcutta] PHP Notice:  Undefined variable: brand in /home/eo4h1blhzd3h/public_html/ecommerce_new/api/user_functions.php on line 1296
+[03-Apr-2020 15:43:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:49 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[03-Apr-2020 15:43:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/nqafhd33nc8n/public_html/ecommerce_new/api/user_functions.php on line 2595
+[08-Apr-2020 12:14:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:31 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:31 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:31 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:31 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:32 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:34 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:35 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:35 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:35 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:35 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:36 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:14:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:14:37 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:46 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:46 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:51 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:51 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:52 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:52 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:52 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:52 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:53 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:58 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:59 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 12:45:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 12:45:59 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 16:27:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 16:27:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 16:27:13 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 16:27:13 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 16:27:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 16:27:13 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 16:27:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 16:27:28 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 16:27:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 16:27:37 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 16:27:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 16:27:42 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 16:27:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 16:27:42 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 21:54:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 21:54:21 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 21:54:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 21:54:21 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 21:54:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 21:54:21 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 21:54:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 21:54:21 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 21:54:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 21:54:33 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 21:54:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 21:54:33 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 21:54:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 21:54:33 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 21:54:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 21:54:33 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:31:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:31:58 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:31:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:31:58 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:31:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:31:58 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:31:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:31:58 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:32:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:32:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:32:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:32:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:32:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:32:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:32:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:32:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:32:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:32:15 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[08-Apr-2020 22:32:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[08-Apr-2020 22:32:16 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:14 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:42 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:43 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:43 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:43 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:43 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:51 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:51 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:30:55 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:30:55 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:35:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:35:20 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:35:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:35:20 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:35:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:35:20 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:05 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:05 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:05 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:10 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:10 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:28 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:28 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:28 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:28 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:29 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:35 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:38 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:38 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:39:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:39:39 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:41:26 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:17 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:17 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:17 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:17 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:17 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:17 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:17 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:17 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:18 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:18 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:24 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:24 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:30 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:30 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:33 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:37 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:42 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:44 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:44 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:54 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:54 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:55 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:55 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:55 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:55 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:55 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:55 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:46:56 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:46:56 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:48:49 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:48:49 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:48:50 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:48:50 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:48:50 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:48:50 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:48:50 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:48:50 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:48:50 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:48:50 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:49:44 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:49:44 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:49:44 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:49:44 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:49:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:49:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:49:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:49:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:49:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:49:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:52:19 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:52:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:52:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:52:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:52:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:52:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:52:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:55:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:55:43 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:55:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:55:43 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:55:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:55:43 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:55:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:55:43 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:55:44 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:55:44 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:01 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:08 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:08 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:08 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:08 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:08 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:08 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:09 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:15 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:16 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:26 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:26 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:26 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:26 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:27 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:27 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:30 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:31 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:45 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:45 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:57 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:57 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:57 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:57 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:57 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:57 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:57 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:57 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:58 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:58 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:59 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:59 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:56:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:56:59 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:05 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:05 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:06 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:06 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:06 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:06 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:31 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:57:34 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[09-Apr-2020 04:58:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'HVaishnav'@'localhost' (using password: YES) in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 9
+[09-Apr-2020 04:58:21 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/nqafhd33nc8n/public_html/ecommerce_new/api/config.php on line 13
+[03-Jul-2021 12:17:05 Asia/Calcutta] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 3070
+[03-Jul-2021 12:17:39 Asia/Calcutta] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 3070
+[03-Jul-2021 12:25:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:25:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:25:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:25:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:25:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:25:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:25:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:25:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:34:47 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 2199
+[03-Jul-2021 12:34:47 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 2199
+[03-Jul-2021 12:34:48 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 2199
+[03-Jul-2021 12:35:05 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 2199
+[03-Jul-2021 12:36:13 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 2199
+[03-Jul-2021 12:36:16 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 2199
+[03-Jul-2021 12:36:17 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 2199
+[03-Jul-2021 12:36:25 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 2199
+[03-Jul-2021 12:36:25 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 2199
+[03-Jul-2021 12:36:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:36:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:36:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:36:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:36:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:36:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:36:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:36:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[03-Jul-2021 12:36:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 754
+[31-Aug-2021 13:53:23 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/dompdf/src/Dompdf.php on line 371
+[31-Aug-2021 13:53:40 UTC] PHP Fatal error:  Class 'Dompdf' not found in /home/q2lbj1qub9ol/public_html/ceramic-api/api/test.php on line 10
+[31-Aug-2021 13:56:38 UTC] PHP Fatal error:  Cannot use Dompdf\Dompdf as Dompdf because the name is already in use in /home/q2lbj1qub9ol/public_html/ceramic-api/api/test.php on line 12
+[31-Aug-2021 13:56:39 UTC] PHP Fatal error:  Cannot use Dompdf\Dompdf as Dompdf because the name is already in use in /home/q2lbj1qub9ol/public_html/ceramic-api/api/test.php on line 12
+[31-Aug-2021 13:57:54 UTC] PHP Fatal error:  Cannot use Dompdf\Dompdf as Dompdf because the name is already in use in /home/q2lbj1qub9ol/public_html/ceramic-api/api/test.php on line 12
+[31-Aug-2021 13:57:56 UTC] PHP Fatal error:  Cannot use Dompdf\Dompdf as Dompdf because the name is already in use in /home/q2lbj1qub9ol/public_html/ceramic-api/api/test.php on line 12
+[01-Sep-2021 15:06:46 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"48886c2328337","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(145): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 15:07:07 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"79d028576740e","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(145): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 15:08:23 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"194690c7a5be8","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(145): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 15:09:10 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"3dcca6a1f56fb","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(145): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 15:09:46 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"4e56f75944011","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(145): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 15:10:10 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"d7e87cd47b017","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(145): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 15:52:58 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"INVALID_REQUEST","message":"Request is not well-formed, syntactically incorrect, or violates schema.","debug_id":"3132307ee6f92","details":[{"field":"/purchase_units/@reference_id=='test_ref_id1'/amount/value","value":"","location":"body","issue":"MISSING_REQUIRED_PARAMETER","description":"A required field / parameter is missing."}],"links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_REQUIRED_PARAMETER","rel":"information_link","encType":"application/json"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(162): PayPalHttp\HttpClient->execute(Object(PayPa in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 16:11:03 Asia/Calcutta] PHP Notice:  Undefined variable: status in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 26
+[01-Sep-2021 16:11:03 Asia/Calcutta] PHP Notice:  Undefined variable: message in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 26
+[01-Sep-2021 19:32:04 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"aa45f82664178","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(103): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 19:32:24 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"bd18e90fa51d9","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(102): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 19:33:03 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"861d8b083ca26","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(103): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 19:34:29 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"c6fc68ab44632","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(103): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 19:35:23 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"c11013cc49d7f","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(102): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 19:35:43 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"48e2c0786b62c","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(102): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 19:35:53 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"207dc11c755c4","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(102): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[01-Sep-2021 19:36:23 Asia/Calcutta] PHP Fatal error:  Cannot use object of type PayPalHttp\HttpResponse as array in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 91
+[01-Sep-2021 19:36:57 Asia/Calcutta] PHP Fatal error:  Cannot use object of type PayPalHttp\HttpResponse as array in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 90
+[01-Sep-2021 19:37:16 Asia/Calcutta] PHP Fatal error:  Cannot use object of type PayPalHttp\HttpResponse as array in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 90
+[01-Sep-2021 19:38:55 Asia/Calcutta] PHP Fatal error:  Cannot use object of type PayPalHttp\HttpResponse as array in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 93
+[01-Sep-2021 19:39:17 Asia/Calcutta] PHP Fatal error:  Cannot use object of type PayPalHttp\HttpResponse as array in /home/q2lbj1qub9ol/public_html/ceramic-api/api/user_functions.php on line 93
+[02-Sep-2021 10:07:30 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='PUHF'/shipping/address","issue":"MISSING_SHIPPING_ADDRESS","description":"The shipping address is required when `shipping_preference=SET_PROVIDED_ADDRESS`."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"9f69df8942e81","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_SHIPPING_ADDRESS","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(104): PayPalHttp\HttpClient in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[14-Sep-2021 16:24:12 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"INVALID_REQUEST","message":"Request is not well-formed, syntactically incorrect, or violates schema.","debug_id":"c4c973e2f7e3a","details":[{"field":"/purchase_units/@reference_id=='test_ref_id1'/amount/value","value":"","location":"body","issue":"MISSING_REQUIRED_PARAMETER","description":"A required field / parameter is missing."}],"links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_REQUIRED_PARAMETER","rel":"information_link","encType":"application/json"}]}' in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceramic-api/api/PaymentOrder.php(104): PayPalHttp\HttpClient->execute(Object(PayPa in /home/q2lbj1qub9ol/public_html/ceramic-api/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215
+[23-Oct-2021 16:50:23 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'PayPalHttp\HttpException' with message '{"name":"INTERNAL_SERVER_ERROR","details":[{"location":"body","issue":"INTERNAL_SERVICE_ERROR","description":"An internal service error has occurred."}],"message":"An internal server error has occurred.","debug_id":"2f907618bdc2e","links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-INTERNAL_SERVICE_ERROR","rel":"information_link","method":"GET"}]}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php:215
+Stack trace:
+#0 /home/q2lbj1qub9ol/public_html/ceremic-copy/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php(100): PayPalHttp\HttpClient->parseResponse(Object(PayPalHttp\Curl))
+#1 /home/q2lbj1qub9ol/public_html/ceremic-copy/api/PaymentOrder.php(104): PayPalHttp\HttpClient->execute(Object(PayPalCheckoutSdk\Orders\OrdersCreateRequest))
+#2 /home/q2lbj1qub9ol/public_html/ceremic-copy/api/user_functions.php(24): PaymentOrde in /home/q2lbj1qub9ol/public_html/ceremic-copy/api/Checkout-PHP-SDK-develop/vendor/paypal/paypalhttp/lib/PayPalHttp/HttpClient.php on line 215

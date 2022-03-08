@@ -1,0 +1,13 @@
+[05-Oct-2021 17:42:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/index.php on line 37
+[05-Oct-2021 17:43:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/index.php on line 37
+[05-Oct-2021 17:47:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/index.php on line 37
+[05-Oct-2021 17:50:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/index.php on line 37
+[05-Oct-2021 19:23:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/controller.php on line 118
+[05-Oct-2021 19:23:23 UTC] PHP Fatal error:  Cannot use [] for reading in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/controller.php on line 118
+[05-Oct-2021 19:24:37 UTC] PHP Fatal error:  Cannot use [] for reading in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/controller.php on line 118
+[05-Oct-2021 19:25:24 UTC] PHP Fatal error:  Cannot use [] for reading in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/controller.php on line 118
+[05-Oct-2021 19:25:35 UTC] PHP Fatal error:  Cannot use [] for reading in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/controller.php on line 118
+[06-Oct-2021 04:54:27 UTC] PHP Parse error:  syntax error, unexpected 'actual' (T_STRING), expecting ']' in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/profile.php on line 138
+[12-Oct-2021 07:27:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/controller.php on line 262
+[12-Oct-2021 07:27:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/controller.php on line 262
+[12-Oct-2021 07:28:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/Driver/controller.php on line 262

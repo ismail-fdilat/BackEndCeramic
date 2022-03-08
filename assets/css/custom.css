@@ -1,0 +1,58 @@
+.brand-logo img {
+    max-width: 100%;
+}
+
+.dz-demo-panel, .sidebar-right {
+    display: none;
+}
+
+.sidebar-right, .dz-demo-panel {display: none;}
+
+.jsgrid-grid-body::-webkit-scrollbar, .dataTables_scrollBody::-webkit-scrollbar, .table-responsive::-webkit-scrollbar {height: 1.4rem;}
+
+table.dataTable thead .sorting:after, table.dataTable thead .sorting_asc:after {content: '' !important;}
+
+body[data-theme-version="dark"] .nice-select .list {
+    background-color: #212130;
+}
+
+[data-theme-version="dark"] table.dataTable thead th {width: 51px !important; white-space: normal;}
+
+.nice-select .list {
+    max-height: calc(100vh - 450px);
+    overflow-y: auto;
+}
+
+div#cityautocomplete-list {
+    font-size: 14px;
+    overflow-y: scroll;
+    max-height: 350px;
+    line-height: 1.5;
+}
+
+.custom-dropdown {
+    display: block;
+    padding: 15px;
+    border: 1px solid #2e2e42 !important;
+    border-radius: 1rem;
+}
+
+#checkboxes label {
+    font-size: 12px;
+    color: #fff;
+    text-transform: capitalize;
+    padding-left: 10px;
+}
+
+#checkboxes label input {
+    margin-right: 10px;
+}
+
+.dataTable tbody tr td:nth-child(9) {
+    width: max-content;
+    display: block;
+}
+.dataTable tbody tr td:nth-child(4) {
+    max-width: 110px;
+}
+

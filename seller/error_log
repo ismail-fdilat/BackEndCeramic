@@ -1,0 +1,75 @@
+[02-Jul-2021 10:47:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 41
+[02-Jul-2021 10:47:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 41
+[02-Jul-2021 10:47:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 41
+[02-Jul-2021 10:48:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 41
+[03-Jul-2021 10:02:20 UTC] PHP Parse error:  syntax error, unexpected '"' )"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 82
+[03-Jul-2021 10:02:26 UTC] PHP Parse error:  syntax error, unexpected '"' )"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 82
+[03-Jul-2021 10:02:53 UTC] PHP Parse error:  syntax error, unexpected '"' )"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 82
+[03-Jul-2021 10:03:04 UTC] PHP Parse error:  syntax error, unexpected '"' )"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 82
+[03-Jul-2021 10:03:16 UTC] PHP Parse error:  syntax error, unexpected '"' )"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 82
+[03-Jul-2021 10:03:44 UTC] PHP Parse error:  syntax error, unexpected '"' )"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 82
+[03-Jul-2021 10:03:45 UTC] PHP Parse error:  syntax error, unexpected '"' )"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 82
+[03-Jul-2021 10:03:45 UTC] PHP Parse error:  syntax error, unexpected '"' )"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 82
+[03-Jul-2021 10:49:23 UTC] PHP Parse error:  syntax error, unexpected '$insertproduct' (T_VARIABLE) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 79
+[05-Jul-2021 05:28:34 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/view-product.php on line 140
+[05-Jul-2021 05:28:49 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/view-product.php on line 140
+[05-Jul-2021 05:29:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/view-product.php on line 165
+[05-Jul-2021 05:29:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/view-product.php on line 165
+[05-Jul-2021 05:29:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/view-product.php on line 165
+[05-Jul-2021 05:29:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/view-product.php on line 165
+[05-Jul-2021 05:29:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/view-product.php on line 165
+[05-Jul-2021 05:30:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/view-product.php on line 165
+[14-Aug-2021 12:07:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/add-product.php on line 637
+[08-Sep-2021 12:38:33 UTC] PHP Parse error:  syntax error, unexpected 'prod_title' (T_STRING), expecting ']' in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/view-product.php on line 131
+[10-Sep-2021 11:23:26 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/booked-order.php on line 163
+[10-Sep-2021 11:26:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/booked-order.php on line 285
+[11-Sep-2021 09:26:13 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/q2lbj1qub9ol/public_html/ceramic-api/seller/single-order.php on line 22
+[27-Sep-2021 09:58:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/createseller.php on line 108
+[27-Sep-2021 09:58:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/createseller.php on line 108
+[27-Sep-2021 09:59:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/createseller.php on line 108
+[27-Sep-2021 09:59:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/createseller.php on line 108
+[27-Sep-2021 12:12:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 5
+[27-Sep-2021 12:12:28 UTC] PHP Notice:  Undefined variable: conn in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 6
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 10
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 11
+[27-Sep-2021 12:12:28 UTC] PHP Notice:  Undefined variable: conn in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 13
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 13
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 14
+[27-Sep-2021 12:12:28 UTC] PHP Notice:  Undefined variable: conn in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 16
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 16
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 17
+[27-Sep-2021 12:12:28 UTC] PHP Notice:  Undefined variable: conn in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 20
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 20
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 21
+[27-Sep-2021 12:12:28 UTC] PHP Notice:  Undefined variable: conn in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 23
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 28
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 29
+[27-Sep-2021 12:12:28 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 93
+[27-Sep-2021 12:12:28 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 143
+[27-Sep-2021 12:12:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/dashboard.php on line 193
+[28-Sep-2021 13:33:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/edit-product.php on line 894
+[28-Sep-2021 13:33:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/edit-product.php on line 1221
+[29-Sep-2021 11:54:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:28:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 222
+[30-Sep-2021 05:29:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 221
+[30-Sep-2021 08:45:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/booked-order.php on line 275
+[12-Oct-2021 10:08:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 192
+[12-Oct-2021 10:09:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 193
+[12-Oct-2021 10:09:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 194
+[12-Oct-2021 10:09:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 194
+[12-Oct-2021 10:09:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 194
+[12-Oct-2021 10:09:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 194
+[12-Oct-2021 10:09:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 194
+[12-Oct-2021 10:09:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 194
+[12-Oct-2021 10:09:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 194
+[12-Oct-2021 10:09:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 195
+[12-Oct-2021 10:09:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/q2lbj1qub9ol/public_html/ceremic-copy/seller/complete_single_order.php on line 196

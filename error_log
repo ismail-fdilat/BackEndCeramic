@@ -1,0 +1,17 @@
+[31-Aug-2021 10:00:19 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 12
+[31-Aug-2021 10:00:19 UTC] PHP Fatal error:  Using $this when not in object context in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 36
+[31-Aug-2021 10:01:47 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 12
+[31-Aug-2021 10:01:47 UTC] PHP Fatal error:  Using $this when not in object context in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 36
+[31-Aug-2021 10:03:57 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[31-Aug-2021 10:03:58 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[31-Aug-2021 10:04:11 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[31-Aug-2021 10:04:27 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[31-Aug-2021 10:04:27 UTC] PHP Fatal error:  Using $this when not in object context in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 39
+[31-Aug-2021 10:04:38 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[31-Aug-2021 10:04:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 39
+[31-Aug-2021 10:04:54 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[31-Aug-2021 10:05:10 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[31-Aug-2021 10:05:53 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[31-Aug-2021 10:06:33 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[01-Sep-2021 05:24:14 UTC] PHP Notice:  unserialize(): Error at offset 163 of 207 bytes in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 15
+[01-Sep-2021 05:24:14 UTC] PHP Fatal error:  Using $this when not in object context in /home/q2lbj1qub9ol/public_html/ceramic-api/Payment.php on line 42
